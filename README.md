@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rajdewangan020@gmail.com**
 
-- ⚡ Fun fact **I am thinking ,I am helpful .**
+- ⚡ Fun fact **I am thinking ,i am good Coder and Developer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
