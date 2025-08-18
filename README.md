@@ -1,16 +1,16 @@
 [![MasterHead ](https://www.shootdartsolutions.com/img/service/web-design.gif)
 
 <h1 align="center">Hi 👋, I'm Rajkumar Dewangan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://media3.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=790b76116552c3d7b6c34e1cc630e594df904354af8528ba&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdewangan1504&label=Profile%20views&color=0e75b6&style=flat" alt="rajdewangan1504" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rajdewa01010406" target="blank"><img src="https://img.shields.io/twitter/follow/rajdewa01010406?logo=twitter&style=for-the-badge" alt="rajdewa01010406" /></a> </p>
 
-- 🌱 I’m currently learning **frame work**
+- 🌱 I’m currently learning **New Technologies**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Development**
 
 - 📫 How to reach me **rajdewangan020@gmail.com**
 
